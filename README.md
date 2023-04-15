@@ -1,6 +1,6 @@
 # Hi there, I'm Frendy! 👋
 
-Frendy is currently a sophomore at Bandung Institute of Technology majoring in Information System and Technology. He is highly interested in learning things about tech, web development, data, and business fields. Frendy is also an active student, loves to participate in organizations as well as committees and discuss or meet with new people.
+Frendy is currently a sophomore majoring in Information System and Technology at Bandung Institute of Technology. He has a deep interest in tech, data, and web development and currently he is exploring in the field of cybersecurity, particularly in capture the flag competitions. Apart from his academic pursuits, he is also an active student who loves to participate in organizations and committees that allows him to meet new people.
 
 ## 💻 My Tech Stack
 

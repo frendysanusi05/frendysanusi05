@@ -31,7 +31,7 @@ Frendy is currently a sophomore majoring in Information System and Technology at
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🏆 My Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=frendysanusi05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frendysanusi05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=frendysanusi05&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=frendysanusi05&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Frendy's%20Stats" alt="GitHub Stats">

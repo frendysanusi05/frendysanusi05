@@ -1,4 +1,6 @@
-# Hi there, I'm Frendy! 👋
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&size=48&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=800&height=80&lines=Hi+there%2C+I'm+Frendy!+%F0%9F%91%8B" alt="Hi there, I'm Frendy! 👋"> 
+</div>
 
 Frendy is currently a junior majoring in Information System and Technology at Bandung Institute of Technology. He has a deep interest in tech, data, and web development and currently he is exploring in the field of cybersecurity, particularly in capture the flag competitions. Apart from his academic pursuits, he is also an active student who loves to participate in organizations and committees that allows him to meet new people.
 

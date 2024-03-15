@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&size=48&pause=1000&color=20C20E&center=true&vCenter=true&random=false&width=800&height=80&lines=Hi+there%2C+I'm+Frendy!+%F0%9F%91%8B" alt="Hi there, I'm Frendy! 👋"> 
 </div>
 
-Frendy is currently a junior majoring in Information System and Technology at Bandung Institute of Technology. He has a deep interest in tech, data, and web development and currently he is exploring in the field of cybersecurity, particularly in capture the flag competitions. Apart from his academic pursuits, he is also an active student who loves to participate in organizations and committees that allows him to meet new people.
+Frendy is currently a junior majoring in Information System and Technology at Bandung Institute of Technology (ITB). He has a deep interest in the realm of software engineering and data and actively explores cybersecurity, evident in his active participation in Capture the Flag competitions. Committed to continuous learning, he aims to leverage his skills and knowledge to make a positive impact in the tech industry.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=frendysanusi05&color=brightgreen&abbreviated=true&base=1000)
 

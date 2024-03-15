@@ -10,6 +10,8 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 
 | Name  | Tech Stack |
 | :-------------: |:-------------:|
+| [UniMap](https://github.com/Project-UniMap/UniMap-mobile) | TypeScript, React Native, JOSM |
+| [Hejokeun](https://github.com/frendysanusi05/hejokeun) | Dart, Flutter, Firebase |
 | [TST Hospital](https://github.com/frendysanusi05/ci-hospital) | PHP, CodeIgniter, TailwindCSS, Docker, MySQL |
 | [TST Apothecary](https://github.com/frendysanusi05/ci-pharmacy) | PHP, CodeIgniter, TailwindCSS, Docker, MySQL |
 | [Intelligente Landwirtschaft - Backend](https://github.com/frendysanusi05/smart-farm-backend) | ExpressJS, NodeJS, Prisma, MongoDB |
@@ -45,6 +47,7 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
